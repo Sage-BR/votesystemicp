@@ -37,7 +37,7 @@ CREATE TABLE IF NOT EXISTS `icp_votesystem_tops` (
 
 INSERT INTO `icp_votesystem_tops` (`id`, `top_name`, `top_url`, `top_img`, `top_btn`, `top_id`, `top_token`, `use_token`, `disponivel`) VALUES
 	(1, 'L2jBrasil', 'https://top.l2jbrasil.com', 'l2jbrasil.png', 'l2jbrasil.php', 'sem_id', 'sem_token', 0, 0),
-	(2, '4TOP MMO', 'https://top.4teambr.com', '4topmmo.png', '4topmmo.php', 'sem_id', 'sem_token', 0, 0),
+	(2, '4TOP MMO', 'http://top.4teambr.com', '4topmmo.png', '4topmmo.php', 'sem_id', 'sem_token', 0, 0),
 	(3, 'Gaming Top 100', 'https://www.gamingtop100.net', 'gamingtop100.gif', 'gamingtop100.php', 'sem_id', 'sem_token', 0, 0),
 	(4, 'Games Top 200', 'https://www.gamestop200.com', 'gamestop200.jpg', 'gamestop200.php', 'sem_id', 'sem_token', 0, 0),
 	(5, 'GTOP100', 'https://www.gtop100.com', 'gtop100.jpg', 'gtop100.php', 'sem_id', 'sem_token', 0, 0),
